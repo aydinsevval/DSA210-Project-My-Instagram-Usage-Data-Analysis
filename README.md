@@ -30,7 +30,7 @@
     - [Personal Limitations](#personal-limitations)
 11. [Future Work](#future-work)
 # Description
-This project, prepared for the Fall 2023-2024 CS210 Introduction to Data Science course at Sabancı University, aims to analyze my Instagram usage habits. The analysis seeks to understand my interaction patterns, usage intensity, and content preferences on the platform.
+This project, prepared for the Fall 2024-2025 term CS210 Introduction to Data Science course at Sabancı University, aims to analyze my Instagram usage habits. The analysis seeks to understand my interaction patterns, usage intensity, and content preferences on the platform.
 
  
 # Motivation
