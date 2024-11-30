@@ -32,6 +32,7 @@ o	Personal Limitations
 
 Description
 This project, prepared for the Fall 2023-2024 CS210 Introduction to Data Science course at Sabancı University, aims to analyze my Instagram usage habits. The analysis seeks to understand my interaction patterns, usage intensity, and content preferences on the platform.
+
  
 Motivation
 Social media has become an integral part of our daily lives. The goal of this project is to deeply analyze my Instagram usage habits to improve time management, identify distracting elements, and make my interaction with social media platforms more efficient. Additionally, this analysis aims to enhance personal awareness by examining my individual usage data.
@@ -45,6 +46,7 @@ Tools
 •	Scipy: For statistical analysis and hypothesis testing.
 •	OCR Technology: For extracting text from images.
 •	Excel: For data organization and simple analyses.
+
  
 Data Source
 •	Instagram Data: Extracted from features such as story archives, like history, followed accounts, and followers.
@@ -73,7 +75,9 @@ Data Visualizations
 •	Weekly Usage Trends: Line graphs highlighting days with high usage intensity.
 •	Interaction Types: Pie charts for liked posts and stories.
 •	Social Network Analysis: Distribution charts for types of followed accounts.
+
 During the EDA process, visualizations were heavily utilized. These analyses were conducted using Altair, Matplotlib, and Seaborn to create interactive and static visualizations. Exploratory data analysis played a central role in uncovering meaningful trends in the collected data.
+
 Data Analysis
 Hourly Usage Patterns
 Usage intensity varies throughout the day, with noticeable increases during certain periods such as mornings and evenings.
