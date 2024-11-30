@@ -37,14 +37,14 @@ This project, prepared for the Fall 2023-2024 CS210 Introduction to Data Science
 Social media has become an integral part of our daily lives. The goal of this project is to deeply analyze my Instagram usage habits to improve time management, identify distracting elements, and make my interaction with social media platforms more efficient. Additionally, this analysis aims to enhance personal awareness by examining my individual usage data.
  
 # Tools
-•	Python: For data processing and analysis.
-•	Pandas: For data cleaning, filtering, and structuring.
-•	Matplotlib and Seaborn: For visualizations.
-•	Altair: For exploratory data analysis (EDA) and interactive visualizations.
-•	Numpy: For mathematical operations and numerical analysis.
-•	Scipy: For statistical analysis and hypothesis testing.
-•	OCR Technology: For extracting text from images.
-•	Excel: For data organization and simple analyses.
+ 	# Python: For data processing and analysis.
+•# 	Pandas: For data cleaning, filtering, and structuring.
+•#	Matplotlib and Seaborn: For visualizations.
+•# Altair: For exploratory data analysis (EDA) and interactive visualizations.
+•#	Numpy: For mathematical operations and numerical analysis.
+•#	Scipy: For statistical analysis and hypothesis testing.
+	# OCR Technology: For extracting text from images.
+•# Excel: For data organization and simple analyses.
 
  
 # Data Source
