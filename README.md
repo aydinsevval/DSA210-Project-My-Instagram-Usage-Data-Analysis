@@ -30,11 +30,11 @@ o	Data Sourced Limitations
 o	Personal Limitations
 11.	Future Work
 
-Description
+#Description
 This project, prepared for the Fall 2023-2024 CS210 Introduction to Data Science course at Sabancı University, aims to analyze my Instagram usage habits. The analysis seeks to understand my interaction patterns, usage intensity, and content preferences on the platform.
 
  
-Motivation
+#Motivation
 Social media has become an integral part of our daily lives. The goal of this project is to deeply analyze my Instagram usage habits to improve time management, identify distracting elements, and make my interaction with social media platforms more efficient. Additionally, this analysis aims to enhance personal awareness by examining my individual usage data.
  
 Tools
