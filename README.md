@@ -1,35 +1,34 @@
 # DSA210-Project-My-Instagram-Usage-Data-Analysis
  My Instagram Usage Data Analysis
  
-Table of Contents
-1.	Description
-2.	Motivation
-3.	Tools
-4.	Data Source
-5.	Data Collection
-6.	Data Processing
-o	Processing JSON Data
-o	OCR Outputs
-o	Screen Time Data
-7.	Data Visualizations
-o	Daily Usage Duration
-o	Weekly Usage Trends
-o	Interaction Types
-o	Social Network Analysis
-8.	Data Analysis
-o	Hourly Usage Patterns
-o	Daily and Weekly Usage Trends
-o	Content Interaction Trends
-o	Social Network Insights
-9.	Findings
-o	Daily Activity
-o	Content Preferences
-o	Social Connections
-10.	Limitations
-o	Data Sourced Limitations
-o	Personal Limitations
-11.	Future Work
-
+## Table of Contents
+1. [Description](#description)
+2. [Motivation](#motivation)
+3. [Tools](#tools)
+4. [Data Source](#data-source)
+5. [Data Collection](#data-collection)
+6. [Data Processing](#data-processing)
+   - [Processing JSON Data](#processing-json-data)
+   - [OCR Outputs](#ocr-outputs)
+   - [Screen Time Data](#screen-time-data)
+7. [Data Visualizations](#data-visualizations)
+   - [Daily Usage Duration](#daily-usage-duration)
+   - [Weekly Usage Trends](#weekly-usage-trends)
+   - [Interaction Types](#interaction-types)
+   - [Social Network Analysis](#social-network-analysis)
+8. [Data Analysis](#data-analysis)
+   - [Hourly Usage Patterns](#hourly-usage-patterns)
+   - [Daily and Weekly Usage Trends](#daily-and-weekly-usage-trends)
+   - [Content Interaction Trends](#content-interaction-trends)
+   - [Social Network Insights](#social-network-insights)
+9. [Findings](#findings)
+   - [Daily Activity](#daily-activity)
+   - [Content Preferences](#content-preferences)
+   - [Social Connections](#social-connections)
+10. [Limitations](#limitations)
+    - [Data Sourced Limitations](#data-sourced-limitations)
+    - [Personal Limitations](#personal-limitations)
+11. [Future Work](#future-work)
 # Description
 This project, prepared for the Fall 2023-2024 CS210 Introduction to Data Science course at Sabancı University, aims to analyze my Instagram usage habits. The analysis seeks to understand my interaction patterns, usage intensity, and content preferences on the platform.
 
